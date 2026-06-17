@@ -253,3 +253,5 @@ t-SNE clustering of the three methods on this CIFAR-10 setup, though DINO and
 MAE each offer distinct advantages explored above — DINO for interpretable,
 object-centric attention useful in dense prediction tasks, and MAE for
 training efficiency at scale.
+
+For Model Results: https://drive.google.com/drive/folders/1vfEF8qMEUhqpIVzRIit1Z06zNklJXWeR?usp=sharing
